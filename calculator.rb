@@ -1,9 +1,7 @@
 # Add your variables here
 first_number=7.4
 
- The first test we've started to solve already. The test is looking for a
-  variable in `calculator.rb`, `first_number`. This variable should be set to
-  an integer or float
+'
 
 - The second test is similar, but this time, looking for `second_number`.
   However, there is a second test here that must also pass:
